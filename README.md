@@ -7,3 +7,4 @@
 git init
 ```
 > Inicialización do repositorio local.
+jaja
